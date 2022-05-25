@@ -1,0 +1,1 @@
+{"name":"discord-bot-maker-bot","author":"Robert Borghese","main":"bot.js","start": "node bot.js  version":"1.6.10","dependencies":{"discord.js":"^12.5.3","fstorm":"latest","jimp":"latest","node-cron":"^3.0.0"}
